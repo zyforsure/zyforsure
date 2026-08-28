@@ -1,4 +1,4 @@
-# Hi, I'm Zhanshenzhui 👋
+# Hi, I'm Yang Zhang👋
 
 AI infrastructure builder and MSc student at the University of Manchester, focused on making multimodal and language models faster, more reliable, and easier to run in production.
 
