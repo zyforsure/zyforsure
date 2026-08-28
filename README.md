@@ -8,8 +8,7 @@ My GitHub is where I learn in public: I build systems, contribute upstream, docu
 
 - [vLLM-Omni · Omni-DuplexEval support](https://github.com/vllm-project/vllm-omni/pull/6634) — added benchmark support for real-time description and proactive-reminder tasks; merged upstream.
 - [verl-omni · fail fast on silent fallbacks](https://github.com/verl-project/verl-omni/pull/443) — improved CI/training reliability by making unsupported or silently degraded paths fail clearly; merged upstream.
-- [Text-Into-Meaning-RAG · hybrid retrieval and evaluation](https://github.com/ARKKUMA/Text-Into-Meaning-RAG/pull/3) — added hybrid retrieval and new evaluation metrics; merged.
-- [Text-Into-Meaning-RAG · benchmark expansion](https://github.com/ARKKUMA/Text-Into-Meaning-RAG/pull/4) — expanded benchmark coverage; merged.
+
 
 ## Current focus
 
